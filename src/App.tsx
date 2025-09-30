@@ -5,7 +5,7 @@ import { AddonPage } from './components/AddonPage';
 import { BetMcUiPage } from './components/BetMcUiPage';
 import { OtherPage } from './components/OtherPage';
 import { MusicPlayer } from './components/MusicPlayer';
-import backgroundImage from './src/assets/Del.png';
+import backgroundImage from './assets/Del.png';
 
 export default function App() {
   const [currentPage, setCurrentPage] = useState('home');
