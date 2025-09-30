@@ -58,4 +58,5 @@
       port: 3000,
       open: true,
     },
+    base: '/SamSoSleepyWebV1.8.0/', // Set base path for GitHub Pages
   });
